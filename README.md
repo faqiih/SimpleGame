@@ -1,2 +1,2 @@
-# Tikus Game
+# Tikus Games
 For learning
